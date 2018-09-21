@@ -1,5 +1,4 @@
 /*Ankur Sahoo
- * Period 4
  * Program DJ Store: This program manages a store that adds, sells, and displays records */
 
 import javax.imageio.ImageIO;
